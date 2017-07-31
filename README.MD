@@ -4,6 +4,8 @@
 
 3) IVY / MAVEN SETTING
 
+3-1) If You are using Nexus 3, change the layout policy to Permissive.
+
 4) DOWNLOAD ARTIFACTS WITH PROXY
 
 5) COPY LOCAL STORAGE DIRECTORY TO PRIVATE NETWORK
